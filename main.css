@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    background: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    align-items: center;
+}
+
+.home{
+    background-color: #ffffff;
+}
+
+.logo {
+    height: 100px;
+    width: auto;
+    padding: 0 25px;
+}
+
+.mainheader{
+    font-size: 50px;
+    font-family: impact;
+}
+.links{
+    font-size: 20px;
+    font-family: impact;
+    color: #000000;
+}
